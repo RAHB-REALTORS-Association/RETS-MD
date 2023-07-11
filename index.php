@@ -1029,7 +1029,7 @@ $page_title = (empty($page_title)) ? "Main" : $page_title;
 <title>RETS M.D. - <?php echo $page_title; ?></title>
 <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
 <link href="<?php echo $GLOBALS['media_url']; ?>styles.css?3" rel="stylesheet" type="text/css" />
-<script language="javascript" type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.0/jquery.min.js"></script>
+<script language="javascript" type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.0/jquery.min.js"></script>
 <script type="text/javascript">
 jQuery.noConflict();
 </script>
